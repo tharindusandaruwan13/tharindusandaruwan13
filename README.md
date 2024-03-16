@@ -2,6 +2,8 @@
 <h1 align="center">Hello 👋, I'm Tharindu Sandaruwan</h1>
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 - 👨‍🎓I’m an Undergraduate at **SLIIT**
 
