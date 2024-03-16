@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="10%" />
 </p>
- <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Tharindu+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Welcome+To+My+Profile..." alt="Headline" />
-    </div>
+
     
 
 - 👨‍🎓I’m an Undergraduate at **SLIIT**
