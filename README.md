@@ -26,5 +26,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
+![tharindu's github stats](https://github-readme-stats.vercel.app/api?username=tharindusandaruwan13&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindusandaruwan13&theme=tokyonight" alt="mystreak"/>
+![tharindu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindusandaruwan13&theme=tokyonight&layout=compact)
 
