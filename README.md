@@ -1,3 +1,4 @@
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hello 👋, I'm Tharindu Sandaruwan</h1>
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
