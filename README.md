@@ -1,7 +1,10 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hello 👋, I'm Tharindu Sandaruwan</h1>
-<h3 align="center">A passionate full stack developer from Sri lanka</h3>
+ <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Tharindu+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Engineer" alt="Headline" />
+    </div>
+    
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
