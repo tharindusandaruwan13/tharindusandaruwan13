@@ -10,7 +10,7 @@
 
 - 👨‍🎓I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Springboot,Java**
+- 🌱 I’m currently learning **Springboot ,Java**
 
 - 📫 How to reach me **tharindusandaruwan011@gmail.com**
 
@@ -30,3 +30,4 @@
 
 ![tharindu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindusandaruwan13&theme=tokyonight&layout=compact)
 
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"></svg>
