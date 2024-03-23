@@ -1,3 +1,4 @@
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="10%" />
 </p>
