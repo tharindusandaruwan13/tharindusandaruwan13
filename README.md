@@ -11,8 +11,6 @@
 
 - 👨‍🎓I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Springboot ,Java**
-
 - 📫 How to reach me **tharindusandaruwan011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
